@@ -1,0 +1,44 @@
+#div1{
+  margin-left: 350px;
+  /*background-color: lightskyblue;*/
+  background: linear-gradient(135deg, orange 50%, cyan);
+
+  width: 514px;
+}
+#div2{
+  margin-left: 350px;
+  /*background-color: lightgreen;*/
+  background: linear-gradient(-135deg, orange 45%, cyan);
+  width: 514px;
+}
+#h1{
+  margin-left: 140px;
+}
+#h2{
+  margin-left: 160px;
+}
+#name{
+  padding: 5px;
+  outline: none;
+  width: 500px;
+}
+#email{
+  padding: 5px;
+  outline: none;
+  width: 500px;
+}
+#phoneno{
+  padding: 5px;
+  outline: none;
+  width: 500px;
+}
+#company{
+  padding: 5px;
+  outline: none;
+  width: 500px;
+}
+#btn{
+  padding: 5px;
+  width: 95px;
+  /*margin-left: 210px;*/
+}
